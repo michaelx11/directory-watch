@@ -1,2 +1,3 @@
 # directory-watch
-Watches a directory and writes any changes to stdout
+
+Watches a directory and writes any changes over stdout
